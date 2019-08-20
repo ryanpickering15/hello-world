@@ -3,4 +3,4 @@ First repository
 
 Hi
 
-Ryan here, this is my first experience of using GitHub.
+My name is Ryan and this is my first experience of using GitHub.
